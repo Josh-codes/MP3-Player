@@ -1,0 +1,8 @@
+.jfx-Combo-Box {
+	-fx-background-color:  PINK;
+}
+
+.jfx-Combo-Box .label {
+	-fx-background-color:  WHITE;
+	-fx-text-fill: RED;
+}/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
